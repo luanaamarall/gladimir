@@ -1,0 +1,69 @@
+1. a) hoje não é segunda-feira.
+   b) há poulição em Pelotas.
+   c) 2 + 1 ≠ 3
+   d) o verão em cuiabá não é quente ou não é ensolarado.
+
+2. a) não foram descobertos tubarões na praia
+   b) nadar no cassino é permitido e foram descobertos tubarões na praia
+   c) não é permitido nadar no cassino ou foram descobertos tubarões na praia
+   d) se nadar no cassino é permitido, então não foram descobertos tubarões na praia
+   e) se não foram descobertos tubarões na praia, então nadar no cassino é permitido
+   f) se não é permitido nadar no cassino, então foram descobertos tubarões na praia 
+   g) se é permitido nadar no cassino, não foram descobertos tubarões na praia
+   h) 
+
+3. a) p ^ q
+   b) p ^ ~q
+   c) ~p ^ ~q 
+   d) q v p
+   e) p -> q 
+   f) (q v p) ^ (~q -> p) 
+   g) p <-> q 
+
+4.1 = b
+4.2 = b
+4.3 = b
+
+5.1 = a 
+5.2 = c 
+5.3 = a
+5.4 = e 
+5.5 = a
+    
+    
+    p = V 
+    q = F 
+    r = V
+
+6. a) p ^ (q v r)
+    V ^ (F v V)
+    (V)
+    V ^ V = V
+
+   b) (p ^ q) -> r
+    (V ^ F) -> V 
+    (F) -> V 
+    F -> V = V 
+
+   c) ¬(p v q) v r
+    (V v F) = F 
+    ¬F = V
+    V v V = V 
+    
+   d) p v (q -> r)
+    V v (F -> V)
+    (F -> V) = V 
+    V v V = V 
+
+   e) ¬p v (¬q ^ ¬r)
+    ¬V v (¬F ^ ¬V)
+    ¬V v (V ^ F)
+     F v F = F
+
+
+
+
+
+
+
+
